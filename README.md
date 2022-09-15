@@ -20,7 +20,7 @@ Connect Switch and ROuter ith Gigabit ethernet port.
 Set IP for the router on both port, one for the PC0 (192.168.1.1) and other port for the Server(172.16.1.1)
 Click on port checkbox to enable the ports.
 Now we have to set up the default gateway for the PC and Server
-Navigate to the settings in PC and Server and setyp the default gateway as ROuter's IP for each port.
+Navigate to the settings in PC and Server and setyp the default gateway as Router's IP for each port.
 For PC0 - 192.168.1.1 and for the server 172.16.1.1
 
 Now ping Server IP from PC it will work fine.
