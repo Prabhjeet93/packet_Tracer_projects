@@ -1,3 +1,9 @@
+These packet tracer labs are solution of Jerenmy's CCNA preparation Lab.
+These labs I have completed as part of my course curriculam.
+
+Jeremy's IT lab url -> https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ
+
+
 # packet_Tracer_projects
 
 
